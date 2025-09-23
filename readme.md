@@ -1,7 +1,7 @@
 ![Python >=3.11.11](https://img.shields.io/badge/Python->=3.11.11-yellow.svg)
 ![PyTorch >=2.2.2](https://img.shields.io/badge/PyTorch->=2.2.2-blue.svg)
 
-# Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification [[pdf]](https://ieeexplore.ieee.org/document/11175191)
+# Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification
 The *official* repository for [Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification](https://ieeexplore.ieee.org/document/11175191)[TCSVT 2025].
 
 ![](./figs/overall_framework.jpg)
@@ -78,6 +78,16 @@ python main.py --gpus 0 --exp 'MFENet-RegDB-all_tricks' --dataset 'regdb'
 If you find this code useful for your research, please cite our paper
 
 ```
-wating for ...
+@article{mfenet,
+  author={Hongyang Gu, Xiaogang Yang, Ruitao Lu, Lei Pu, Siming Han, Ming Wu },
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  title={Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification},
+  year={2025},
+  publisher={IEEE},
+  doi={10.1109/TCSVT.2025.3612751},
+  eprint={10.1109/TCSVT.2025.3612751},
+  note={Early Access}
+}
 ```
+
 

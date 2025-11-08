@@ -2,7 +2,8 @@
 ![PyTorch >=2.2.2](https://img.shields.io/badge/PyTorch->=2.2.2-blue.svg)
 
 # Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification
-The *official* repository for [Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification](https://ieeexplore.ieee.org/document/11175191)[TCSVT 2025].
+[TCSVT 2025]
+The *official* repository for [Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-identification](https://ieeexplore.ieee.org/document/11175191).
 
 ![](./figs/overall_framework.jpg)
 
@@ -89,5 +90,6 @@ If you find this code useful for your research, please cite our paper
   note={Early Access}
 }
 ```
+
 
 
